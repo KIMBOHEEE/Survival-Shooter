@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Scenes/Level 01.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Hand Painted Grass Texture/Scene/Hand Painted Grass Texture.unity
+  isLoaded: 0
+  isActive: 0
